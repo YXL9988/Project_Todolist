@@ -12,5 +12,8 @@
   },
   "dependencies": {
     "uuid": "^11.1.0"
+  },
+  "engines": {
+    "node":">=18.x <=23.x"
   }
 }
